@@ -18,5 +18,5 @@ Run App
 
 
 ## Screenshots
-![1](!(https://user-images.githubusercontent.com/72046458/154939464-8d084259-6fc0-40ff-929c-1d7789cba26e.png))
-![2](!(https://user-images.githubusercontent.com/72046458/154939508-1c06877a-3712-4a74-bcdf-d7545fe384ca.png))
+![1](https://user-images.githubusercontent.com/72046458/154939464-8d084259-6fc0-40ff-929c-1d7789cba26e.png)
+![2](https://user-images.githubusercontent.com/72046458/154939508-1c06877a-3712-4a74-bcdf-d7545fe384ca.png)
