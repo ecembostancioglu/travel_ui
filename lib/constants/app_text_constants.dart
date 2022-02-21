@@ -3,7 +3,7 @@ class AppTextConstants{
   static const holidaysentence='By answering these questions, we can help you to find you the location of your dream vacation.';
   static const startquiz='Start Quiz';
   static const next='Next';
-  static const question1='How do you feel about flying';
+  static const question1='How do you feel about flying?';
   static const answer1= 'I\'m scare of flying';
   static const answer2='Let\'s just get over it';
   static const answer3='It\'s fine';
