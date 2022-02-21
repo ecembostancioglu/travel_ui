@@ -1,5 +1,5 @@
 # Travel UI Design
-To-Do application using Provider and Shared Preferences.
+Travel Quiz Application 
 
 
 ## Run Locally
@@ -15,12 +15,6 @@ Run App
 ```bash
   flutter run
 ```
-
-
-## Soon ~~
-
-- [ ] Category Item Icon
-
 
 
 ## Screenshots
